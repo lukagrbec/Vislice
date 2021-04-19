@@ -1,6 +1,5 @@
 # Vislice
-Projekt vislice za UVP
-
+Projekt vislice za Uvod v programiranje
 
 
 Avtor:
