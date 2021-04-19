@@ -1,8 +1,7 @@
 # Vislice
-
-lalala
-
+Projekt vislice za UVP
 
 
 
+Avtor:
 Luka G.
